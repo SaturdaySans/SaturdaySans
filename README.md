@@ -1,5 +1,6 @@
 # 💫 About Me:
 A student studying in Singapore, currently interested in server infrastructure & cloud engineering! :D
+
 Planning to learn:
 - React for web development
 - Cloud platforms (AWS & Azure)
