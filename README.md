@@ -1,5 +1,5 @@
 # 💫 About Me:
-A student studying in Singapore, currently interested in server infrastructure & cloud engineering! :D
+A student studying in Singapore, currently interested in server infrastructure & cloud engineering! Experimenting with a ubuntu server~ :D
 
 Planning to learn:
 - React for web development
