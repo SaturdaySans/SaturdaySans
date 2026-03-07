@@ -1,5 +1,5 @@
 # 💫 About Me:
-A J1 student studying in Singapore, currently interested in server infrastructure & cloud engineering! Experimenting with a ubuntu server~ 
+A J1 student studying in Singapore, currently interested in server infrastructure & devops! Experimenting with a ubuntu server~ 
 
 Planning to learn:
 - React for web development
