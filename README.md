@@ -1,5 +1,5 @@
 # 💫 About Me:
-A J1 student studying in Singapore, currently interested in server infrastructure & devops. Experimenting with an ubuntu server as a hobbyist!
+A J1 student studying in Singapore, currently interested in server infrastructure & devops! Experimenting with an ubuntu server as a hobbyist~
 
 Planning to learn (In terms of Priority):
 - Gitlab & CICD pipelines
