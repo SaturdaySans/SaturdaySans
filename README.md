@@ -1,10 +1,11 @@
 # 💫 About Me:
 A J1 student studying in Singapore, currently interested in server infrastructure & devops! Experimenting with a ubuntu server~ 
 
-Planning to learn:
+Planning to learn (In terms of Priority):
+- Gitlab & CICD pipelines
 - React for web development
-- Cloud platforms (AWS & Azure)
-- Backend architecture and infrastructure
+- Cloud platforms (Azure, AWS)
+- C# & Basic unity understanding
 
 # 💻 Skills:
 
