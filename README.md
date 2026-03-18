@@ -7,7 +7,7 @@ Learning:
 Planning to learn:
 - React for web development
 - Cloud platforms (Azure, AWS)
-- C# & Basic unity understanding
+- Kubernetes
 
 # 💻 Skills:
 
