@@ -2,12 +2,11 @@
 A J1 student studying in Singapore, currently interested in Server Infrastructure & DevSecOps! Experimenting with an ubuntu server as a hobbyist~
 
 Learning:
-- Gitlab & CICD pipelines
+- Web Development & React framework
 
 Planning to learn:
-- React for web development
 - Cloud platforms (Azure, AWS)
-- Kubernetes
+- Container Orchestration w Kubernetes
 
 # 💻 Skills:
 
