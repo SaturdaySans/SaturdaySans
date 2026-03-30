@@ -4,12 +4,11 @@ A J1 student studying in Singapore, currently interested in Server Infrastructur
 Learning:
 - Frontend Development (React, Tailwind CSS, TypeScript)
 - Backend & APIs (Node.js)
-- Container Orchestration w Kubernetes
+- Provisioning with Terraform
 
 Planning to learn:
 - Cloud platforms (Azure, AWS)
 - Kubernetes (advanced: Helm, Ingress, scaling, persistence)
-- Provisioning with Terraform
 - Monitoring & Observability (Prometheus + Grafana)
 
 # 💻 Skills:
