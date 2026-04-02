@@ -1,10 +1,12 @@
 # 💫 About Me:
 A J1 student studying in Singapore, currently interested in Server Infrastructure & DevSecOps! Experimenting with an ubuntu server as a hobbyist~
 
+SST Grad'25
+
 Learning:
-- Frontend Development (React, Tailwind CSS, TypeScript)
 - Backend & APIs (Node.js)
 - Provisioning with Terraform
+- Assemblyy
 
 Planning to learn:
 - Cloud platforms (Azure, AWS)
@@ -22,6 +24,7 @@ Planning to learn:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 
 ### Infrastructure
