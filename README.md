@@ -1,5 +1,5 @@
 # 💫 About Me:
-A J1 student studying in Singapore, currently interested in Server Infrastructure & DevSecOps! Experimenting with an ubuntu server as a hobbyist~
+A J1 student studying in Singapore, deeply interested in DevOps & Low-level programming! Experimenting with an server as a hobbyist~
 
 SST Grad'25
 
@@ -12,6 +12,9 @@ Planning to learn:
 - Cloud platforms (Azure, AWS)
 - Kubernetes (advanced: Helm, Ingress, scaling, persistence)
 - Monitoring & Observability (Prometheus + Grafana)
+
+Find me on discord:
+@saturdaysev, @takoiii
 
 # 💻 Skills:
 
