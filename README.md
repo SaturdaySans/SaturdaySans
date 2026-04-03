@@ -1,20 +1,21 @@
 # 💫 About Me:
-A J1 student studying in Singapore, deeply interested in DevOps & Low-level programming! Experimenting with an server as a hobbyist~
-
-SST Grad'25
+A J1 student studying in Singapore, deeply interested in DevOps & Low-level programming! I enjoy ricing & experimenting with my arch server as a hobbyist~
 
 Learning:
-- Backend & APIs (Node.js)
+- Backend Node.js
 - Provisioning with Terraform
-- Assemblyy
+- Assembly
 
-Planning to learn:
+Currently Exploring:
 - Cloud platforms (Azure, AWS)
-- Kubernetes (advanced: Helm, Ingress, scaling, persistence)
-- Monitoring & Observability (Prometheus + Grafana)
+- Advanced Kubernetes -- Helm, Ingress, scaling, persistence
+- Monitoring & Observability with Prometheus & Grafana
 
-Find me on discord:
-@saturdaysev, @takoiii
+I keep my repos private~
+
+discord @saturdaysev
+
+SST Grad'25
 
 # 💻 Skills:
 
@@ -40,6 +41,7 @@ Find me on discord:
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -50,12 +52,14 @@ Find me on discord:
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
 
+
 ### Others
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SaturdaySans&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
