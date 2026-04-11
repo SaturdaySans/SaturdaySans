@@ -4,7 +4,7 @@ A J1 student studying in Singapore, deeply interested in DevOps & Low-level prog
 Learning:
 - Backend Node.js
 - Provisioning with Terraform
-- Assembly
+- OS Development
 
 Currently Exploring:
 - Cloud platforms (Azure, AWS)
