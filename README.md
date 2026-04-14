@@ -2,14 +2,14 @@
 A J1 student studying in Singapore, deeply interested in DevOps & Low-level programming! I enjoy ricing & experimenting with my arch server as a hobbyist~
 
 Learning:
-- Backend Node.js
+- Monitoring & Observability with Prometheus & Grafana
 - Provisioning with Terraform
 - OS Development
 
 Currently Exploring:
 - Cloud platforms (Azure, AWS)
 - Advanced Kubernetes -- Helm, Ingress, scaling, persistence
-- Monitoring & Observability with Prometheus & Grafana
+- Configuration Management with Ansible
 
 I keep my repos private~
 
@@ -37,11 +37,13 @@ SST Grad'25
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -62,11 +64,10 @@ SST Grad'25
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
+
 # GitHub Stats:
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=SaturdaySans&theme=catppuccin-frappe)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api?username=SaturdaySans&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SaturdaySans&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaturdaySans&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=SaturdaySans&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=SaturdaySans&theme=catppuccin_mocha&hide_border=false)<br/>
 [![](https://visitcount.itsvg.in/api?id=SaturdaySans&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
