@@ -2,7 +2,7 @@
 A J1 student studying in Singapore, deeply interested in DevOps & Low-level programming! I enjoy ricing & experimenting with my arch server as a hobbyist~
 
 Learning:
-- Monitoring & Observability with LGTM tech stack (Loki, Grafana, Tempo, Prometheus)
+- Monitoring & Observability with OTEL-LGTM tech stack (Loki, Grafana, Tempo, Prometheus)
 - Provisioning with Terraform
 - OS Development
 
