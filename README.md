@@ -9,7 +9,9 @@ Learning:
 Currently Exploring:
 - Cloud platforms (Azure, AWS)
 - Advanced Kubernetes -- Helm, Ingress, scaling, persistence
+- Artifact Management with Artifactory (JFrog)
 - Configuration Management with Ansible
+- Service Mesh (Consul / Istio)
 
 I keep my repos private~
 
