@@ -4,7 +4,7 @@ A J1 student studying in Singapore, deeply interested in Platform Engineering & 
 Learning:
 - Monitoring & Observability with OTEL-LGTM tech stack (Loki, Grafana, Tempo, Prometheus)
 - Provisioning with Terraform
-- Service Mesh (Istio)
+- Service Meshing with Istio
 - OS Development
 
 Currently Exploring:
