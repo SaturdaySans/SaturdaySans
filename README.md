@@ -4,6 +4,7 @@ A J1 student studying in Singapore, deeply interested in Platform Engineering & 
 Learning:
 - Monitoring & Observability with OTEL-LGTM tech stack (Loki, Grafana, Tempo, Prometheus)
 - Provisioning with Terraform
+- Service Mesh (Istio)
 - OS Development
 
 Currently Exploring:
@@ -11,7 +12,9 @@ Currently Exploring:
 - Advanced Kubernetes -- Helm, Ingress, scaling, persistence
 - Artifact Management with Artifactory (JFrog)
 - Configuration Management with Ansible
-- Service Mesh (Consul / Istio)
+- GitOps with ArgoCD
+- Internal Developer Portals (Backstage)
+
 
 I keep my repos private~
 
@@ -51,6 +54,7 @@ SST Grad'25
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black)
 ![Helm](https://img.shields.io/badge/helm-%23326ce5.svg?style=for-the-badge&logo=helm&logoColor=#0F1689)
+![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=Istio&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
