@@ -4,7 +4,7 @@ A J1 student studying in Singapore, deeply interested in Platform Engineering & 
 Learning:
 - Monitoring & Observability with OTEL-LGTM tech stack (Loki, Grafana, Tempo, Prometheus)
 - Provisioning with Terraform
-- Service Meshing with Istio
+- Service Meshing with Istio & Admiral (Multi-cluster Ops)
 - OS Development
 
 Currently Exploring:
@@ -37,6 +37,7 @@ SST Grad'25
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 
+
 ### Infrastructure
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
@@ -50,6 +51,7 @@ SST Grad'25
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Admiral](https://img.shields.io/badge/Admiral-%23004481.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black)
