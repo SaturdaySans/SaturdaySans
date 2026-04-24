@@ -2,14 +2,13 @@
 A J1 student studying in Singapore, deeply interested in Platform Engineering & Low-level programming! I enjoy ricing & experimenting with my arch server as a hobbyist~
 
 Learning:
-- Monitoring & Observability with OTEL-LGTM tech stack (Loki, Grafana, Tempo, Prometheus)
-- Provisioning with Terraform
+- Advanced Kubernetes -- Helm, Ingress, scaling, persistence
 - Service Meshing with Istio & Admiral (Multi-cluster Ops)
+- Provisioning with Terraform
 - OS Development
 
 Currently Exploring:
 - Cloud platforms (Azure, AWS)
-- Advanced Kubernetes -- Helm, Ingress, scaling, persistence
 - Artifact Management with Artifactory (JFrog)
 - Configuration Management with Ansible
 - GitOps with ArgoCD
