@@ -10,6 +10,7 @@ Learning:
 Currently Exploring:
 - Cloud platforms (Azure, AWS)
 - Artifact Management with Artifactory (JFrog)
+- Secrets Management with HashiCorp Vault
 - Configuration Management with Ansible
 - GitOps with ArgoCD
 - Internal Developer Portals (Backstage)
@@ -45,6 +46,7 @@ SST Grad'25
 ![Helm](https://img.shields.io/badge/helm-%23326ce5.svg?style=for-the-badge&logo=helm&logoColor=#0F1689)
 ![Harbor](https://img.shields.io/badge/Harbor-60B932?style=for-the-badge&logo=harbor&logoColor=white)
 ![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=Istio&logoColor=white)
+![Kiali](https://img.shields.io/badge/Kiali-505AC9?style=for-the-badge&logo=kiali&logoColor=white)
 
 #### Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
