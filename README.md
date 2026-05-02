@@ -1,22 +1,21 @@
 # 💫 About Me:
-A J1 student studying in Singapore, deeply interested in Platform Engineering & Low-level programming! I enjoy ricing & experimenting with my arch server as a hobbyist~
+A J1 student studying in Singapore, passionate in Platform Engineering & Cybersecurity :D! I enjoy ricing & experimenting with my arch server as a hobbyist~
 
 Learning:
 - Advanced Kubernetes -- Helm, Ingress, scaling, persistence
 - Service Meshing with Istio & Admiral (Multi-cluster Ops)
 - Provisioning with Terraform
-- OS Development
 
 Currently Exploring:
-- Cloud platforms (Azure, AWS)
-- Artifact Management with Artifactory (JFrog)
-- Secrets Management with HashiCorp Vault
-- Configuration Management with Ansible
 - GitOps with ArgoCD
+- Cloud platforms (Azure, AWS)
+- Configuration Management with Ansible
 - Internal Developer Portals (Backstage)
+- Secrets Management with HashiCorp Vault
+- Artifact Management with Artifactory (JFrog)
 
 
-I keep my repos private~
+repos are private for security & privacy~
 
 discord @saturdaysev
 
@@ -76,6 +75,7 @@ SST Grad'25
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Vitest](https://img.shields.io/badge/vitest-%236E9F18.svg?style=for-the-badge&logo=vitest&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
