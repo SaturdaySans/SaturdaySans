@@ -50,6 +50,7 @@ SST Grad'25
 #### Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![K6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black)
 ![Loki](https://img.shields.io/badge/Loki-F5A623?style=for-the-badge)
 ![Tempo](https://img.shields.io/badge/Tempo-5C4EE5?style=for-the-badge)
