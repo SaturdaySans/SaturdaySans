@@ -55,6 +55,7 @@ SST Grad'25
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black)
 ![Loki](https://img.shields.io/badge/Loki-F5A623?style=for-the-badge)
 ![Tempo](https://img.shields.io/badge/Tempo-5C4EE5?style=for-the-badge)
+![Pyroscope](https://img.shields.io/badge/Pyroscope-EE4422?style=for-the-badge&logo=pyroscope&logoColor=white)
 
 #### Networking & Deployment
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
