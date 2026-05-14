@@ -6,7 +6,7 @@ Learning:
 - Service Meshing with Istio & Admiral (Multi-cluster Ops)
 - Provisioning with Terraform
 
-Currently Exploring:
+Exploring:
 - GitOps with ArgoCD
 - Cloud platforms (Azure, AWS)
 - Configuration Management with Ansible
@@ -21,7 +21,7 @@ discord @saturdaysev
 
 SST Grad'25
 
-# 💻 Skills:
+# Skills:
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -55,7 +55,6 @@ SST Grad'25
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black)
 ![Loki](https://img.shields.io/badge/Loki-F5A623?style=for-the-badge)
 ![Tempo](https://img.shields.io/badge/Tempo-5C4EE5?style=for-the-badge)
-![Pyroscope](https://img.shields.io/badge/Pyroscope-EE4422?style=for-the-badge&logo=pyroscope&logoColor=white)
 
 #### Networking & Deployment
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
@@ -64,7 +63,6 @@ SST Grad'25
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Gitea](https://img.shields.io/badge/Gitea-5D9425?style=for-the-badge&logo=gitea&logoColor=white)
 
 #### Backend / Frontend
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -89,9 +87,7 @@ SST Grad'25
 ### Others
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
 
