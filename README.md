@@ -1,9 +1,9 @@
 # 💫 About Me:
-Im a J1 student studying in Singapore, passionate in Devops & Cybersecurity :D! I enjoy ricing & experimenting with my arch server as a hobbyist~
+A J1 student studying in Singapore, passionate in Devops & Cybersecurity :D! I enjoy ricing & experimenting with my arch server as a hobbyist~
 
 Learning:
 - Advanced Kubernetes -- Helm, Ingress, scaling, persistence
-- Service Meshing with Istio & Admiral (Multi-cluster Ops)
+- Service Meshing with Istio & Admiral 
 - Provisioning with Terraform
 
 Exploring:
