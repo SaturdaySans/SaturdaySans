@@ -17,7 +17,7 @@ Exploring:
 
 repos are private for security & privacy~
 
-reach out to me at my discord @saturdaysev
+reach out to me on discord @saturdaysev
 
 SST Grad'25
 
