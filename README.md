@@ -1,3 +1,4 @@
+![Saki](assets/Saki.png)
 # 💫 About Me:
 A student studying in Singapore, passionate in Devops & Networks :D! I enjoy ricing & experimenting with my server as a hobbyist~
 
