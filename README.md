@@ -20,8 +20,6 @@ repos are private for security & privacy~
 
 reach out to me on discord @saturdaysev
 
-SST Grad'25
-
 # Skills:
 
 ### Languages
