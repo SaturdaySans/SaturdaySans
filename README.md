@@ -2,6 +2,8 @@
 # 💫 About Me:
 A student studying in Singapore, passionate in Devops & Networks :D! I enjoy ricing & experimenting with my server as a hobbyist~
 
+https://sev.saturday-s.com
+
 Learning:
 - Kubernetes: Helm, Ingress, scaling, persistence
 - Service Meshing with Istio
